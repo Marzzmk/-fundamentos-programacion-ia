@@ -1,0 +1,11 @@
+La inteligencia artificial es una herramienta que usa datos recopilados para realizar tareas como por ejemplo resolver problemas o tomar decisiones
+
+Sus ventajas:
+-Aumenta la velocidad de trabajo.
+-Automatiza tareas repetitivas.
+-Ayuda a encontrar errores y generar soluciones.
+
+Limitaciones:
+-Puede cometer errores o dar informacion incorrecta
+-Depende de la calidad del prompt para su respuesta.
+-No reemplaza el criterio ni la creatividad del usuario
