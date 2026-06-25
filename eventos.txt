@@ -1,0 +1,8 @@
+Un evento es una condicion en un programa que si se cumple puede iniciar o terminar una accion.
+
+Se utilizan en aplicaciones o video juegos para responder a las acciones del usuario.
+
+Tres ejemplos de eventos serian:
+- Hacer click en un boton para enviar un formulario
+- Escribir texto en un cuadro de busqueda
+- Presionar un boton para correr en un videojuego
