@@ -1,0 +1,5 @@
+Un bucle es una estructura de programacion que permite repetir ciertas acciones varias veces si se cumple o no una condicion o un numero determinado de repeticiones
+
+Sirve para automatizar tareas repetiticas evitando escribir el mismo codigo mas veces.
+
+Un ejemplo de una actividad repetitiva en la vida cotidiana seria subir escaleras; Cada que subes un escalon lo cuentas y esto se repite hasta llegar al final.
