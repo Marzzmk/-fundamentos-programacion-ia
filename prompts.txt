@@ -1,0 +1,5 @@
+Un prompt es una instruccion o pregunta que se le da a una inteligencia artificial para que realice una tarea.
+
+Es importante crear buenos prompts porque se pueden obtener respuestas mas precisas de la ia, ahorras tiempo y consigues contenido de mayor calidad
+
+Algunas recomendaciones para crear buenos prompts seria poner un objetivo claro. Tambien el contexto y detalles. Por ejemplo: quiero que me des una idea de negocio para un estudiante de 16 años buena y innovadora.
