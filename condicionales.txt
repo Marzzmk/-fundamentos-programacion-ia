@@ -1,0 +1,8 @@
+Un condicional es una estructura de programacion que permite tomar decisiones segun se cumpla o no una condicion.
+
+Sirve para que un programa ejecute una accion dependiendo del resultado de la condicion
+
+Por ejemplo: Si la comida esta salada, No le pongo sal.
+         - Si la comida no esta salada, Le pongo sal.
+         
+        
